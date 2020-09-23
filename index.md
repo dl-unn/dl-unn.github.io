@@ -7,7 +7,7 @@
 
 ## Neural Networks: Theory
 1. [Introduction](materials/DeepLearning_Lecture1_Introduction.pdf)
-2. [Data-driven approaches](materials/DeepLearning_Lecture 2_DataDrivenApproaches.pdf)
+2. [Data-driven approaches](materials/DeepLearning_Lecture2_DataDrivenApproaches.pdf)
 3. [Neural Networks]
 
 ## Neural Networks: Practice
