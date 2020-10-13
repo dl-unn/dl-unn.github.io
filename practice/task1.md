@@ -36,4 +36,7 @@ MINST в формате CSV: https://www.kaggle.com/oddrationale/mnist-in-csv
 
 # Сдача работы
 
-TBD.
+1. Необходимо отправить письмо с заголовком "Deep Learning - Task 1" на e-mail alexey.sidnev@gmail.com.
+2. К письму необходимо прекрепить ipynb (все внешние зависимости должны быть указаны в notebook'е) и pdf/html с решением задачи.
+
+Deadline: 23:59 8.10.2020
