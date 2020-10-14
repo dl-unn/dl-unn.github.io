@@ -11,6 +11,6 @@
 3. [Neural Networks]
 
 ## Neural Networks: Practice
-1. [Task #1 - Simple data-driven approach](practice/task1.md).
+1. [Task #1 - Simple data-driven approach](practice/task1.md) and [resulеs](practice/task1_results.md).
 
 ## Neural Networks: Applications
