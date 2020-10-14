@@ -26,7 +26,7 @@
 | Tarasov Oleg                                                       | ?              | 4  | L2       | ?                                  |
 | Panov Aleksandr                                                    | ?              | 6  | L2       | Projection Histograms              |
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
-| Usova Marina                                                       | ?              | 6  | L2       | HOG                                |
+| Usova Marina                                                       | 0.9653         | 6  | L2       | HOG                                |
 | Panova Elena                                                       | ?              | 5  | L2       | Cutting high frequencies, rotation |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
 | Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
