@@ -28,7 +28,7 @@
 | Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
 | Panov Aleksandr                                                    | ?              | 6  | L2       | Projection Histograms              |
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
-| Panova Elena                                                       | ?              | 5  | L2       | Cutting high frequencies, rotation |
+| Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
 | Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
