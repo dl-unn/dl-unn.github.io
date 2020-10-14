@@ -33,7 +33,7 @@
 | Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
-| Gladyshev Alexey                                                   | ?              | 7  | L1       | HOG                                |
+| Gladyshev Alexey                                                   | 0.9228              | 7  | L1       | HOG                                |
 
 # Not accepted results of Task 1
 
