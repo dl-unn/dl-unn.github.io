@@ -1,4 +1,5 @@
 # Accepted results of Task 1
+
 | Name                                                               | Test acccuracy | K  | Distance | Features                           |
 |--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | LeNet-4 (http://yann.lecun.com/exdb/mnist/)                        | 0.989          |    |          |                                    |
@@ -16,6 +17,9 @@
 | K-nearest-neighbors, Euclidean (http://yann.lecun.com/exdb/mnist/) | 0.95           |    | L2       | Raw                                |
 
 # Accuracy must be evaluated
+
+| Name                                                               | Test acccuracy | K  | Distance | Features                           |
+|--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
 | Gribov Pavel                                                       | ?              | 3  | L2       | ?                                  |
 | Alexande Romanov                                                   | ?              | 1  | L2       | ?                                  |
@@ -31,6 +35,9 @@
 | Gladyshev Alexey                                                   | ?              | 7  | L1       | HOG                                |
 
 # Not accepted results of Task 1
+
+| Name                                                               | Test acccuracy | K  | Distance | Features                           |
+|--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | Nechesanov Vladimir                                                | ?              | 1  | L2       | Raw                                |
 | Ananiev Semyon                                                     | 0.9773         | 3  | L2       | ?                                  |
 | Generalov Alexander                                                | 0.9773         | 3  | L2       | ?                                  |
