@@ -10,7 +10,7 @@
 | [K-nearest-neighbors](http://yann.lecun.com/exdb/mnist/)           | 0.982          |    | L2       | deskewing, noise removal, blurring |
 | Kuznetsov Vladislav                                                | 0.9743         | 4  | L2       | HOG                                |
 | Degtyarev Anton                                                    | 0.974          | 3  | L2       | HOG                                |
-| Rodionov Fedor                                                     | 0.9712         | 4  | L3       | ?                                  |
+| Rodionov Fedor                                                     | 0.9712         | 4  | L3       | Raw                                  |
 | Senyaev Andrey                                                     | 0.9705         | 3  | L2       | HOG                                |
 | Protas Maria                                                       | 0.97           | 3  | L2       | HOG                                |
 | Tarasov Oleg                                                       | 0.9682         | 4  | L2       | ?                                  |
