@@ -26,7 +26,7 @@
 | Name                                                               | Test accuracy  | K  | Distance | Features                           |
 |--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
-| Gribov Pavel                                                       | ?              | 3  | L2       | ?                                  |
+| Gribov Pavel                                                       | 0.9642         | 4  | L2       | HOG                                |
 | Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
