@@ -26,7 +26,7 @@
 | Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
 | Gribov Pavel                                                       | ?              | 3  | L2       | ?                                  |
 | Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
-| Panov Aleksandr                                                    | ?              | 6  | L2       | Projection Histograms              |
+| Panov Aleksandr                                                    | 0.9709         | 6  | L2       | Projection Histograms              |
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
 | Panova Elena                                                       | ?              | 5  | L2       | Cutting high frequencies, rotation |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
