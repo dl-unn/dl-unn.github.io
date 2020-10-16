@@ -32,7 +32,7 @@
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
 | Kuznetsov Konstantin                                               | 0.969          | 7  | L2       | Raw                                |
 | Kamelina Julia                                                     | 0.9705         | 3  | Cosine   | Raw                                |
-| Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
+| Shkenev Petr                                                       | 0.9651         | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
 
 # Not accepted results of Task 1
