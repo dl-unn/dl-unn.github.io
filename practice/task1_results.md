@@ -30,7 +30,7 @@
 | Romanov Alexander                                                  | 0.9691         | 1  | L2       | Raw                                |
 | Mayachkin Arseny                                                   | 0.9677         | 6  | L2       | Raw                                |
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
-| Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
+| Kuznetsov Konstantin                                               | 0.969          | 7  | L2       | Raw                                |
 | Kamelina Julia                                                     | 0.9705         | 3  | Cosine   | Raw                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
