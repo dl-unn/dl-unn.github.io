@@ -31,7 +31,7 @@
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
-| Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
+| Kamelina Julia                                                     | 0.9705         | 3  | Cosine   | Raw                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
 
