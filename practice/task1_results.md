@@ -27,7 +27,7 @@
 |--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
 | Gribov Pavel                                                       | ?              | 3  | L2       | ?                                  |
-| Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
+| Romanov Alexander                                                  | 0.9691         | 1  | L2       | Raw                                |
 | Mayachkin Arseny                                                   | 0.9677         | 6  | L2       | Raw                                |
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
