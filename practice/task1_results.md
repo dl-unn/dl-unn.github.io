@@ -32,7 +32,7 @@
 | Panova Elena                                                       | ?              | 5  | L2       | Cutting high frequencies, rotation |
 | Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
 | Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
-| Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
+| Shkenev Petr                                                       | 0.9651         | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
 
 # Not accepted results of Task 1
