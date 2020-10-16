@@ -27,11 +27,11 @@
 |--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
 | Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
 | Gribov Pavel                                                       | 0.9642         | 4  | L2       | HOG                                |
-| Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
-| Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
+| Romanov Alexander                                                  | 0.9691         | 1  | L2       | Raw                                |
+| Mayachkin Arseny                                                   | 0.9677         | 6  | L2       | Raw                                |
 | Panova Elena                                                       | 0.977          | 5  | L2       | low-frequency filter, rotation     |
-| Kuznetsov Konstantin                                               | ?              | 7  | L2       | ?                                  |
-| Kamelina Julia                                                     | ?              | 3  | Cosine   | HOG                                |
+| Kuznetsov Konstantin                                               | 0.969          | 7  | L2       | Raw                                |
+| Kamelina Julia                                                     | 0.9705         | 3  | Cosine   | Raw                                |
 | Shkenev Petr                                                       | ?              | 5  | L2       | HOG                                |
 | Trifonov ALexander                                                 | ?              | ?  | L2       | ?                                  |
 
