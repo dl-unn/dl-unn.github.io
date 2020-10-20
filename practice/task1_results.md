@@ -28,17 +28,12 @@
 | [K-nearest-neighbors](http://yann.lecun.com/exdb/mnist/)           | 0.95           |    | L2       | Raw                                |
 | Gladyshev Alexey                                                   | 0.9228         | 7  | L1       | HOG                                |
 
-# Accuracy must be evaluated
-
-| Name                                                               | Test accuracy  | K  | Distance | Features                           |
-|--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
-| Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
-
 # Not accepted results of Task 1
 
-| Name                                                               | Test accuracy  | K  | Distance | Features                           |
-|--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
-| Nechesanov Vladimir                                                | ?              | 1  | L2       | Raw                                |
-| Ananiev Semyon                                                     | 0.9773         | 3  | L2       | ?                                  |
-| Generalov Alexander                                                | 0.9773         | 3  | L2       | ?                                  |
-| Trifonov Alexander                                                 | ?              | ?  | L2       | ?                                  |
+| Name                                                               |
+|--------------------------------------------------------------------|
+| Nechesanov Vladimir                                                |
+| Ananiev Semyon                                                     |
+| Generalov Alexander                                                |
+| Trifonov Alexander                                                 |
+| Shutina Svetlana                                                   |
