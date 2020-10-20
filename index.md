@@ -16,9 +16,9 @@
 ## Neural Networks: Practice
 1. [Task #1 - Simple data-driven approach](practice/task1.md) and [results](practice/task1_results.md).
 2. How to use training frameworks:
-  * [TensorFlow v1](practice/tf1.ipynb).
-  * [TensorFlow v2](practice/tf2_eager_mode.ipynb)
-  * [PyTorch](practice/pytorch.ipynb).
+  * TensorFlow v1: [Preview](practice/tf1.html), [Download](practice/tf1.ipynb).
+  * TensorFlow v2: [Preview](practice/tf2_eager_mode.html), [Download](practice/tf2_eager_mode.ipynb).
+  * PyTorch: [Preview](practice/pytorch.html), [Download](practice/pytorch.ipynb).
    
 3. [Task #2 - Multilayer neural network]().
 
