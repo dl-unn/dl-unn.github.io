@@ -54,6 +54,6 @@ CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html
 1. Необходимо отправить письмо с заголовком "Deep Learning - Task 2" на e-mail alexey.sidnev@gmail.com.
 2. К письму необходимо прекрепить ipynb (все внешние зависимости должны быть указаны в notebook'е) и pdf/html с решением задачи.
 Файлы должны называться `ФамилияИмя.ipynb`, `ФамилияИмя.html`, например: `SidnevAlexey.ipynb`.
-3. Необходимо создать Pull Request в репозиторий `https://github.com/dl-unn/dl-unn.github.io` с указанием архитектуры сети и достигнутого качества. 
+3. Необходимо создать Pull Request в репозиторий `https://github.com/dl-unn/dl-unn.github.io` с указанием архитектуры сети и достигнутого качества (файл [results](task2_results.md)). 
 
 Deadline: 23:59 5.11.2020

@@ -20,7 +20,7 @@
   * TensorFlow v2: [Preview](practice/tf2_eager_mode.html), [Download](practice/tf2_eager_mode.ipynb).
   * PyTorch: [Preview](practice/pytorch.html), [Download](practice/pytorch.ipynb).
    
-3. [Task #2 - Multilayer neural network](practice/task2.md) and [results](practice/task2_results.md)..
+3. [Task #2 - Multilayer neural network](practice/task2.md) and [results](practice/task2_results.md).
 
 ## Neural Networks: Applications
 1. Classification and Segmentation.
