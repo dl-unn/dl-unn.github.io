@@ -21,6 +21,7 @@
   * PyTorch: [Preview](practice/pytorch.html), [Download](practice/pytorch.ipynb).
    
 3. [Task #2 - Multilayer neural network](practice/task2.md) and [results](practice/task2_results.md).
+4. [Symbol 'H' to sequence 'HELLO' with RNN](practice/rnn_lecture.ipynb).
 
 ## Neural Networks: Applications
 1. Classification and Segmentation.
