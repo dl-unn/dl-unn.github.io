@@ -3,7 +3,7 @@
 | Name                                                               | Test accuracy, %  | NN architecture|
 |--------------------------------------------------------------------|-------------------|----------------|
 | Alexey Sidnev (example)                                            |       59.2        | 1. Conv2D(3x3, ReLU, stride=2, out=20)<br>2. Conv2D(3x3, ReLU, stride=2, out=40)<br>3. Conv2D(3x3, ReLU, stride=2, out=80)<br>4. Fully connected (out=10)<br>5. Softmax 
-| Batanina Liubov                                                    |                   |                |
+| Batanina Liubov                                                    |       66.75       | 1. Conv2D(3x3, ReLU, padding="same", stride=1, out=32)<br>2. MaxPooling(2x2, stride=2)<br>3. BatchNormalization()<br>4. Conv2D(3x3, ReLU, padding="same", stride=1, out=64)<br>5. MaxPooling(2x2, stride=2)<br>6. BatchNormalization()<br>7. Conv2D(3x3, ReLU, padding="same", stride=1, out=128)<br>8. MaxPooling(2x2, stride=2)<br>9. BatchNormalization()<br>10. Flatten()<br>11. Fully connected(ReLU, out=128)<br>12. Dropout(0.1)<br>13. Fully connected (out=10)<br>14. Softmax
 | Krasikova Ekaterina                                                |                   |                |
 | Okunev Boris                                                       |                   |                |
 | Zinoviev Vladimir                                                  |                   |                |
