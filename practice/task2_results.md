@@ -10,7 +10,7 @@
 | Panova Elena                                                       |                   |                |
 | Kuznetsov Vladislav                                                |                   |                |
 | Degtyarev Anton                                                    |                   |                |
-| Rodionov Fedor                                                     |                   |                |
+| Rodionov Fedor                                                     |       49.5        |         1. Fully connected (out=256), ReLU <br>2. Fully connected (out=64), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax        |
 | Panov Aleksandr                                                    |                   |                |
 | Senyaev Andrey                                                     |                   |                |
 | Kamelina Julia                                                     |                   |                |
