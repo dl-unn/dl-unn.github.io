@@ -23,7 +23,7 @@
 | Shkenev Petr                                                       |                   |                |
 | Daniil Roman                                                       |                   |                |
 | Gribov Pavel                                                       |                   |                |
-| Tarakanov Kirill                                                   |                   |                |
+| Tarakanov Kirill                                                   |       54.79       | 1. Fully connected(out=256, activation=sigmoid)<br>2. Fully connected(out=128, activation=sigmoid)<br>3. Fully connected (out=10)<br>4. Softmax
 | Gladyshev Alexey                                                   |                   |                |
 | Nechesanov Vladimir                                                |                   |                |
 | Ananiev Semyon                                                     |                   |                |
