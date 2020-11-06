@@ -30,5 +30,5 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
-
+| Israfilov Marat                                                    |       51.02       | 1. Fully connected (ReLU, out=1024)<br>2. Fully connected (ReLU, out=512)<br>3. Fully connected (ReLU, out=256)<br>4. Fully connected (out=10)<br>5. Softmax
 
