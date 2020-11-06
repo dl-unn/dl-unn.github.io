@@ -15,7 +15,7 @@
 | Senyaev Andrey                                                     |                   |                |
 | Kamelina Julia                                                     |                   |                |
 | Protas Maria                                                       |                   |                |
-| Romanov Alexander                                                  |                   |                |
+| Romanov Alexander                                                  |       52.18       | 1. Fully connected (ReLU, out=250)<br>2. Fully connected (ReLU, out=100)<br>3. Fully connected (ReLU, out=10)<br> 4. Softmax |
 | Kuznetsov Konstantin                                               |                   |                |
 | Tarasov Oleg                                                       |                   |                |
 | Mayachkin Arseny                                                   |                   |                |
