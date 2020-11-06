@@ -30,5 +30,4 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
-
-
+| Kuznetsov Victor                                                   |       45.18       | 1. Fully connected (out=1100), ReLU <br>2. Fully connected (out=1100), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax
