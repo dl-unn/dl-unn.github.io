@@ -13,7 +13,7 @@
 | Rodionov Fedor                                                     |                   |                |
 | Panov Aleksandr                                                    |                   |                |
 | Senyaev Andrey                                                     |                   |                |
-| Kamelina Julia                                                     |                   |                |
+| Kamelina Julia                                                     |       61.24       | 1. Conv2D(5x5, ReLU, stride=1, out=8)<br>2. MaxPooling(2x2, stride=2)<br>3. Conv2D(3x3, ReLU, stride=1, out=16)<br>4. MaxPooling(2x2, stride=2)<br>5. Fully connected(ReLU, out=288)<br>6. Fully connected(ReLU, out=10)<br>7. Softmax |
 | Protas Maria                                                       |                   |                |
 | Romanov Alexander                                                  |                   |                |
 | Kuznetsov Konstantin                                               |                   |                |
