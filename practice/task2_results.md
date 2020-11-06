@@ -14,7 +14,7 @@
 | Panov Aleksandr                                                    |                   |                |
 | Senyaev Andrey                                                     |                   |                |
 | Kamelina Julia                                                     |                   |                |
-| Protas Maria                                                       |                   |                |
+| Protas Maria                                                       |      49.58        | 1. Fully Connected (ReLU, out=100) <br>2. Fully Connected (ReLU, out=30) <br>3. Fully Connected (out=10) <br>4. Softmax                |
 | Romanov Alexander                                                  |                   |                |
 | Kuznetsov Konstantin                                               |                   |                |
 | Tarasov Oleg                                                       |                   |                |
