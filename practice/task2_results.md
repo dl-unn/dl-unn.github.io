@@ -8,7 +8,7 @@
 | Okunev Boris                                                       |                   |                |
 | Zinoviev Vladimir                                                  |                   |                |
 | Panova Elena                                                       |                   |                |
-| Kuznetsov Vladislav                                                |                   |                |
+| Kuznetsov Vladislav                                                |      59.66        |     1. Fully connected (out=700), ReLU<br>2. Fully connected (out=300), ReLU<br>3. Fully connected (out=10)<br>4. Softmax           |
 | Degtyarev Anton                                                    |                   |                |
 | Rodionov Fedor                                                     |                   |                |
 | Panov Aleksandr                                                    |                   |                |
