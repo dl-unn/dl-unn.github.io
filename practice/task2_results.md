@@ -6,7 +6,7 @@
 | Batanina Liubov                                                    |                   |                |
 | Krasikova Ekaterina                                                |                   |                |
 | Okunev Boris                                                       |                   |                |
-| Zinoviev Vladimir                                                  |                   |                |
+| Zinoviev Vladimir                                                  |       53.91       | 1. Fully connected (out=400) 2. ReLU 3. Fully connected (out=10) 4. ReLU 5. Softmax |
 | Panova Elena                                                       |                   |                |
 | Kuznetsov Vladislav                                                |                   |                |
 | Degtyarev Anton                                                    |                   |                |
