@@ -25,7 +25,7 @@
 | Gribov Pavel                                                       |                   |                |
 | Tarakanov Kirill                                                   |                   |                |
 | Gladyshev Alexey                                                   |                   |                |
-| Nechesanov Vladimir                                                |                   |                |
+| Nechesanov Vladimir                                                |           45.7        |DenseLayer (3072, 100) -> Sigmoid() -> DenseLayer (100, 200) -> Sigmoid() -> DenseLayer (200, 100) -> Sigmoid() -> DenseLayer(100, 10)                |
 | Ananiev Semyon                                                     |                   |                |
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
