@@ -19,7 +19,7 @@
 | Kuznetsov Konstantin                                               |                   |                |
 | Tarasov Oleg                                                       |                   |                |
 | Mayachkin Arseny                                                   |                   |                |
-| Usova Marina                                                       |                   |                |
+| Usova Marina                                                       |       45.38       |  1. Fully connected (out=1024), tanh<br>2. Fully connected (out=512), tanh<br>3.Fully connected (out=256), tanh<br>4. Fully connected (out=10), tanh<br>5.Softmax
 | Shkenev Petr                                                       |                   |                |
 | Daniil Roman                                                       |                   |                |
 | Gribov Pavel                                                       |                   |                |
