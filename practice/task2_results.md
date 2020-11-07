@@ -30,5 +30,5 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
-
+| Kulikova Svetlana                                                  |       63.33       | 1. Conv2D(5x5, ReLU, stride=1, out=32)<br>2. BatchNormalization()<br>3. MaxPooling(2x2, stride=2)<br>4. Conv2D(5x5, ReLU, stride=1, out=64)<br>5. BatchNormalization()<br>6. MaxPooling(2x2, stride=2)<br>7. Conv2D(5x5, ReLU, stride=1, out=128)<br>8. Flatten()<br>9. Dense(ReLU, out=92)<br>10. Dense(out=10)<br>11. Softmax
 
