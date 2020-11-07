@@ -18,7 +18,7 @@
 | Romanov Alexander                                                  |                   |                |
 | Kuznetsov Konstantin                                               |                   |                |
 | Tarasov Oleg                                                       |                   |                |
-| Mayachkin Arseny                                                   |                   |                |
+| Mayachkin Arseny                                                   |         54.7        |        1. Fully Connected(size=100) - Affine-Batchnorm-ReLu <br>2. Fully Connected(size=100) - Softmax        |
 | Usova Marina                                                       |                   |                |
 | Shkenev Petr                                                       |                   |                |
 | Daniil Roman                                                       |                   |                |
