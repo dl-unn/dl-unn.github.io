@@ -7,7 +7,7 @@
 | Krasikova Ekaterina                                                |                   |                |
 | Okunev Boris                                                       |                   |                |
 | Zinoviev Vladimir                                                  |                   |                |
-| Panova Elena                                                       |                   |                |
+| Panova Elena                                                       |       53.0        | 1. Fully connected (out=256)<br>2. Batch normalisation<br>3. LeakyReLu(alpha=0.1)<br>4. Fully connected (out=64)<br>5. Batch normalisation<br>6. LeakyReLu(alpha=0.1)<br>7. Fully connected (out=10)<br>8. Batch normalisation<br>9. Softmax
 | Kuznetsov Vladislav                                                |                   |                |
 | Degtyarev Anton                                                    |                   |                |
 | Rodionov Fedor                                                     |                   |                |
