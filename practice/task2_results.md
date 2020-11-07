@@ -11,7 +11,7 @@
 | Kuznetsov Vladislav                                                |                   |                |
 | Degtyarev Anton                                                    |                   |                |
 | Rodionov Fedor                                                     |                   |                |
-| Panov Aleksandr                                                    |                   |                |
+| Panov Aleksandr                                                    |       55.05       | 1. Fully connected(leakyReLU, out=768)<br>2. Fully connected(leakyReLU, out=96)<br>3. Fully connected(ReLU, out=10)<br>4. Softmax
 | Senyaev Andrey                                                     |                   |                |
 | Kamelina Julia                                                     |                   |                |
 | Protas Maria                                                       |                   |                |
