@@ -16,7 +16,7 @@
 | Kamelina Julia                                                     |                   |                |
 | Protas Maria                                                       |                   |                |
 | Romanov Alexander                                                  |                   |                |
-| Kuznetsov Konstantin                                               |                   |                |
+| Kuznetsov Konstantin                                               |       53.37       | 1. Conv2D(3x3, ReLU, stride=1, out=16)<br>2. MaxPool(2x2)<br>3. Conv2D(3x3, ReLU, stride=1, out=16)<br>4. MaxPool(2x2)<br>5. Flatten()<br>6. Dense(ReLU, out=100)<br>7. Dense(ReLU, out=10)<br>8. Softmax |
 | Tarasov Oleg                                                       |                   |                |
 | Mayachkin Arseny                                                   |                   |                |
 | Usova Marina                                                       |                   |                |
