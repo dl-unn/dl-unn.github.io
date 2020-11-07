@@ -9,7 +9,7 @@
 | Zinoviev Vladimir                                                  |                   |                |
 | Panova Elena                                                       |                   |                |
 | Kuznetsov Vladislav                                                |                   |                |
-| Degtyarev Anton                                                    |                   |                |
+| Degtyarev Anton                                                    |       53.44       | 1. Flatten()<br>2. FullyConnected(units=1024), Elu<br>3. FullyConnected(units=512), Elu<br>4. FullyConnected(units=10)<br>5. Softmax               |
 | Rodionov Fedor                                                     |                   |                |
 | Panov Aleksandr                                                    |                   |                |
 | Senyaev Andrey                                                     |                   |                |
