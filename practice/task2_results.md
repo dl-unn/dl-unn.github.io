@@ -22,7 +22,7 @@
 | Usova Marina                                                       |                   |                |
 | Shkenev Petr                                                       |                   |                |
 | Daniil Roman                                                       |                   |                |
-| Gribov Pavel                                                       |                   |                |
+| Gribov Pavel                                                       |        46         | 1. Fully connected (out=1024, sigmoid)<br>2. Fully connected (out=512, sigmoid)<br>3. Fully connected (out=256, sigmoid)<br>4.Fully connected (out=10, sigmoid)<br>5. Softmax() |
 | Tarakanov Kirill                                                   |                   |                |
 | Gladyshev Alexey                                                   |                   |                |
 | Nechesanov Vladimir                                                |                   |                |
