@@ -5,7 +5,7 @@
 | Alexey Sidnev (example)                                            |       59.2        | 1. Conv2D(3x3, ReLU, stride=2, out=20)<br>2. Conv2D(3x3, ReLU, stride=2, out=40)<br>3. Conv2D(3x3, ReLU, stride=2, out=80)<br>4. Fully connected (out=10)<br>5. Softmax 
 | Batanina Liubov                                                    |                   |                |
 | Krasikova Ekaterina                                                |                   |                |
-| Okunev Boris                                                       |                   |                |
+| Okunev Boris                                                       |        54         |  1. Fully connected (out=256, ReLU)<br>2. Fully connected (out=64, ReLU)<br>3. Fully connected (out=10)<br>4. Softmax |
 | Zinoviev Vladimir                                                  |                   |                |
 | Panova Elena                                                       |                   |                |
 | Kuznetsov Vladislav                                                |                   |                |
