@@ -17,7 +17,7 @@
 | Protas Maria                                                       |                   |                |
 | Romanov Alexander                                                  |                   |                |
 | Kuznetsov Konstantin                                               |                   |                |
-| Tarasov Oleg                                                       |       28.72       |1. Fully connected (input=1024, output=512)<br>2. Tanh<br>3. Fully connected (input=512, output=256)<br>4. Tanh<br>5. Fully connected (input=256, output=10)<br>6. Softmax|
+| Tarasov Oleg                                                       |       46.99       |1. Fully connected (input=1024, output=512)<br>2. ReLU<br>3. Fully connected (input=512, output=256)<br>4. ReLU<br>5. Fully connected (input=256, output=10)<br>6. Softmax|
 | Mayachkin Arseny                                                   |                   |                |
 | Usova Marina                                                       |                   |                |
 | Shkenev Petr                                                       |                   |                |
