@@ -30,5 +30,5 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
-
+| Senina Anastasia                                                   |      46.23        |1. Conv2D(5x5, ReLU, stride=1, out=12)<br>2. Conv2D(3x3, ReLU, stride=1, out=24)<br>3.Fully connected (out=10)<br>5. Softmax
 
