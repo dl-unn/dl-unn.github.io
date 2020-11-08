@@ -12,7 +12,7 @@
 | Degtyarev Anton                                                    |                   |                |
 | Rodionov Fedor                                                     |                   |                |
 | Panov Aleksandr                                                    |                   |                |
-| Senyaev Andrey                                                     |                   |                |
+| Senyaev Andrey                                                     |       56            | 1. Conv2D(3x3, LeakyReLU, stride=2, out=32)<br>2. Conv2D(3x3, LeakyReLU, stride=2, out=64)<br>3. Flatten<br>4. Fully connected (100, sigmoid)<br>5. Fully connected (10, softmax)               |
 | Kamelina Julia                                                     |                   |                |
 | Protas Maria                                                       |                   |                |
 | Romanov Alexander                                                  |                   |                |
