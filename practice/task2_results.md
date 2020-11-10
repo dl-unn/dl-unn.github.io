@@ -30,5 +30,5 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
-
+| Shurgalin Alexander                                                |       54          | 1. Fully connected (100, sigmoid)<br>2. Fully connected (50, sigmoid)<br>3. Fully connected (10, softmax)
 
