@@ -12,6 +12,7 @@
 4. Backpropagation and NN.
 5. Multilayer NN, Activation, Loss.
 6. Normalization, Convolution.
+7. Recurrent Neural Networks. 
 
 ## Neural Networks: Practice
 1. [Task #1 - Simple data-driven approach](practice/task1.md) and [results](practice/task1_results.md).
@@ -24,6 +25,7 @@
 4. [Symbol 'H' to sequence 'HELLO' with RNN](practice/rnn_lecture.ipynb).
 
 ## Neural Networks: Applications
-1. Classification and Segmentation.
-2. Object detection and Keypoint detection.
-3. TBD.
+1. [Semantic segmentation, Keypoint detection, and Object detection](materials/DeepLearning_Lecture8_SemanticSegmentation,Keypoints,Detection.pdf).
+2. Text-to-Speech.
+3. Natural Language Processing.
+4. TBD.
