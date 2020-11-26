@@ -12,7 +12,7 @@
 4. Backpropagation and NN.
 5. Multilayer NN, Activation, Loss.
 6. Normalization, Convolution.
-7. Recurrent Neural Networks. 
+7. [Recurrent Neural Networks](materials/DeepLearning_Lecture7_RecurrenNeuralNetworks.pdf). 
 
 ## Neural Networks: Practice
 1. [Task #1 - Simple data-driven approach](practice/task1.md) and [results](practice/task1_results.md).
