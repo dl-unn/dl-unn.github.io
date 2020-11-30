@@ -14,6 +14,12 @@
 6. Normalization, Convolution.
 7. [Recurrent Neural Networks](materials/DeepLearning_Lecture7_RecurrenNeuralNetworks.pdf). 
 
+## Neural Networks: Applications
+1. [Semantic segmentation, Keypoint detection, and Object detection](materials/DeepLearning_Lecture8_SemanticSegmentation,Keypoints,Detection.pdf).
+2. Text-to-Speech.
+3. Natural Language Processing.
+4. TBD.
+
 ## Neural Networks: Practice
 1. [Task #1 - Simple data-driven approach](practice/task1.md) and [results](practice/task1_results.md).
 2. How to use training frameworks:
@@ -22,10 +28,5 @@
   * PyTorch: [Preview](practice/pytorch.html), [Download](practice/pytorch.ipynb).
    
 3. [Task #2 - Multilayer neural network](practice/task2.md) and [results](practice/task2_results.md).
-4. [Symbol 'H' to sequence 'HELLO' with RNN](practice/rnn_lecture.ipynb).
+4. Symbol 'H' to sequence 'HELLO' with RNN: [Download](practice/rnn_lecture.ipynb).
 
-## Neural Networks: Applications
-1. [Semantic segmentation, Keypoint detection, and Object detection](materials/DeepLearning_Lecture8_SemanticSegmentation,Keypoints,Detection.pdf).
-2. Text-to-Speech.
-3. Natural Language Processing.
-4. TBD.
