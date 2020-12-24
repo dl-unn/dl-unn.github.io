@@ -8,7 +8,7 @@
 | Okunev Boris                                                       |                   |                |
 | Zinoviev Vladimir                                                  |                   |                |
 | Panova Elena                                                       |                   |                |
-| Kuznetsov Vladislav                                                |                   |                |
+| Kuznetsov Vladislav                                                |       59.66       | 1. Fully connected (out=700), ReLU<br>2. Fully connected (out=300), ReLU<br>3. Fully connected (out=10)<br>4. Softmax           |
 | Degtyarev Anton                                                    |       53.44       | 1. Flatten()<br>2. FullyConnected(units=1024), Elu<br>3. FullyConnected(units=512), Elu<br>4. FullyConnected(units=10)<br>5. Softmax               |
 | Rodionov Fedor                                                     |       49.5        | 1. Fully connected (out=256), ReLU <br>2. Fully connected (out=64), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax        |
 | Panov Aleksandr                                                    |                   |                |
