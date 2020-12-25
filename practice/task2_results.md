@@ -30,6 +30,7 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
+| Senina Anastasia                                                   |       46.23       | 1. Conv2D(5x5, ReLU, stride=1, out=12)<br>2. Conv2D(3x3, ReLU, stride=1, out=24)<br>3.Fully connected (out=10)<br>5. Softmax
 | Kuznetsov Victor                                                   |       45.18       | 1. Fully connected (out=1100), ReLU <br>2. Fully connected (out=1100), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax
 | Israfilov Marat                                                    |       51.02       | 1. Fully connected (ReLU, out=1024)<br>2. Fully connected (ReLU, out=512)<br>3. Fully connected (ReLU, out=256)<br>4. Fully connected (out=10)<br>5. Softmax
 | Kulikova Svetlana                                                  |       63.33       | 1. Conv2D(5x5, ReLU, stride=1, out=32)<br>2. BatchNormalization()<br>3. MaxPooling(2x2, stride=2)<br>4. Conv2D(5x5, ReLU, stride=1, out=64)<br>5. BatchNormalization()<br>6. MaxPooling(2x2, stride=2)<br>7. Conv2D(5x5, ReLU, stride=1, out=128)<br>8. Flatten()<br>9. Dense(ReLU, out=92)<br>10. Dense(out=10)<br>11. Softmax
