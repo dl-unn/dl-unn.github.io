@@ -26,7 +26,7 @@
 | Tarakanov Kirill                                                   |                   |                |
 | Tarakanov Kirill                                                   |       54.79       | 1. Fully connected(out=256, activation=sigmoid)<br>2. Fully connected(out=128, activation=sigmoid)<br>3. Fully connected (out=10)<br>4. Softmax
 | Gladyshev Alexey                                                   |       67.53       | 1. Conv2D(3x3, ReLU, stride=1, out=64)<br>2. MaxPool(2x2, stride=1)<br>3. BatchNormalization()<br>4.Conv2D(3x3, ReLU, stride=1, out=128)<br>5. MaxPool(2x2, stride=1)<br>6. BatchNormalization()<br>7. Conv2D(3x3, ReLU, stride=1, out=256)<br>8. MaxPool(2x2, stride=1)<br>9. BatchNormalization()<br>10. Flatten()<br>11. Dense(ReLU, out=128)<br>12. Dropout(0.7)<br>13. BatchNormalization()<br>14. Dense(ReLU, out=512)<br>15. Dropout(0.7)<br>16. BatchNormalization()<br>17. Dense(ReLU, out=1024)<br>18. Dropout(0.7)<br>19. BatchNormalization()<br>20. Softmax() |
-| Nechesanov Vladimir                                                |                   |                |
+| Nechesanov Vladimir                                                |       45.70       | DenseLayer (3072, 100) -> Sigmoid() -> DenseLayer (100, 200) -> Sigmoid() -> DenseLayer (200, 100) -> Sigmoid() -> DenseLayer(100, 10)                |
 | Ananiev Semyon                                                     |                   |                |
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
