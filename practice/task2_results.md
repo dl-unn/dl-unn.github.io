@@ -12,7 +12,7 @@
 | Degtyarev Anton                                                    |       53.44       | 1. Flatten()<br>2. FullyConnected(units=1024), Elu<br>3. FullyConnected(units=512), Elu<br>4. FullyConnected(units=10)<br>5. Softmax               |
 | Rodionov Fedor                                                     |       49.5        | 1. Fully connected (out=256), ReLU <br>2. Fully connected (out=64), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax        |
 | Panov Aleksandr                                                    |       55.05       | 1. Fully connected(leakyReLU, out=768)<br>2. Fully connected(leakyReLU, out=96)<br>3. Fully connected(ReLU, out=10)<br>4. Softmax
-| Senyaev Andrey                                                     |       56            | 1. Conv2D(3x3, LeakyReLU, stride=2, out=32)<br>2. Conv2D(3x3, LeakyReLU, stride=2, out=64)<br>3. Flatten<br>4. Fully connected (100, sigmoid)<br>5. Fully connected (10, softmax)               |
+| Senyaev Andrey                                                     |       56          | 1. Conv2D(3x3, LeakyReLU, stride=2, out=32)<br>2. Conv2D(3x3, LeakyReLU, stride=2, out=64)<br>3. Flatten<br>4. Fully connected (100, sigmoid)<br>5. Fully connected (10, softmax)               |
 | Kamelina Julia                                                     |       61.24       | 1. Conv2D(5x5, ReLU, stride=1, out=8)<br>2. MaxPooling(2x2, stride=2)<br>3. Conv2D(3x3, ReLU, stride=1, out=16)<br>4. MaxPooling(2x2, stride=2)<br>5. Fully connected(ReLU, out=288)<br>6. Fully connected(ReLU, out=10)<br>7. Softmax |
 | Protas Maria                                                       |       49.58       | 1. Fully Connected (ReLU, out=100) <br>2. Fully Connected (ReLU, out=30) <br>3. Fully Connected (out=10) <br>4. Softmax                |
 | Romanov Alexander                                                  |       52.18       | 1. Fully connected (ReLU, out=250)<br>2. Fully connected (ReLU, out=100)<br>3. Fully connected (ReLU, out=10)<br> 4. Softmax |
@@ -30,7 +30,9 @@
 | Generalov Alexander                                                |                   |                |
 | Trifonov Alexander                                                 |                   |                |
 | Shutina Svetlana                                                   |                   |                |
+| Shurgalin Alexander                                                |       54          | 1. Fully connected (100, sigmoid)<br>2. Fully connected (50, sigmoid)<br>3. Fully connected (10, softmax)
 | Senina Anastasia                                                   |       46.23       | 1. Conv2D(5x5, ReLU, stride=1, out=12)<br>2. Conv2D(3x3, ReLU, stride=1, out=24)<br>3.Fully connected (out=10)<br>5. Softmax
 | Kuznetsov Victor                                                   |       45.18       | 1. Fully connected (out=1100), ReLU <br>2. Fully connected (out=1100), ReLU <br>3. Fully connected (out=10), ReLU <br>4. Softmax
 | Israfilov Marat                                                    |       51.02       | 1. Fully connected (ReLU, out=1024)<br>2. Fully connected (ReLU, out=512)<br>3. Fully connected (ReLU, out=256)<br>4. Fully connected (out=10)<br>5. Softmax
 | Kulikova Svetlana                                                  |       63.33       | 1. Conv2D(5x5, ReLU, stride=1, out=32)<br>2. BatchNormalization()<br>3. MaxPooling(2x2, stride=2)<br>4. Conv2D(5x5, ReLU, stride=1, out=64)<br>5. BatchNormalization()<br>6. MaxPooling(2x2, stride=2)<br>7. Conv2D(5x5, ReLU, stride=1, out=128)<br>8. Flatten()<br>9. Dense(ReLU, out=92)<br>10. Dense(out=10)<br>11. Softmax
+
