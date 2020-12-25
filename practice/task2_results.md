@@ -17,7 +17,7 @@
 | Protas Maria                                                       |       49.58       | 1. Fully Connected (ReLU, out=100) <br>2. Fully Connected (ReLU, out=30) <br>3. Fully Connected (out=10) <br>4. Softmax                |
 | Romanov Alexander                                                  |       52.18       | 1. Fully connected (ReLU, out=250)<br>2. Fully connected (ReLU, out=100)<br>3. Fully connected (ReLU, out=10)<br> 4. Softmax |
 | Kuznetsov Konstantin                                               |       53.37       | 1. Conv2D(3x3, ReLU, stride=1, out=16)<br>2. MaxPool(2x2)<br>3. Conv2D(3x3, ReLU, stride=1, out=16)<br>4. MaxPool(2x2)<br>5. Flatten()<br>6. Dense(ReLU, out=100)<br>7. Dense(ReLU, out=10)<br>8. Softmax |
-| Tarasov Oleg                                                       |                   |                |
+| Tarasov Oleg                                                       |       46.99       | 1. Fully connected (input=1024, output=512)<br>2. ReLU<br>3. Fully connected (input=512, output=256)<br>4. ReLU<br>5. Fully connected (input=256, output=10)<br>6. Softmax|
 | Mayachkin Arseny                                                   |                   |                |
 | Usova Marina                                                       |                   |                |
 | Shkenev Petr                                                       |                   |                |
