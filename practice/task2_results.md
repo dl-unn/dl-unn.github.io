@@ -21,7 +21,7 @@
 | Mayachkin Arseny                                                   |                   |                |
 | Usova Marina                                                       |                   |                |
 | Shkenev Petr                                                       |                   |                |
-| Daniil Roman                                                       |                   |                |
+| Daniil Roman                                                       |       45.4        |1. Fully connected (out=100, ReLU)<br>2. Fully connected (out=200, ReLU)<br>3. Fully connected (out=100, ReLU)<br>4.Fully connected (out=10, ReLU)<br>5. Softmax() |
 | Gribov Pavel                                                       |                   |                |
 | Tarakanov Kirill                                                   |                   |                |
 | Tarakanov Kirill                                                   |       54.79       | 1. Fully connected(out=256, activation=sigmoid)<br>2. Fully connected(out=128, activation=sigmoid)<br>3. Fully connected (out=10)<br>4. Softmax
