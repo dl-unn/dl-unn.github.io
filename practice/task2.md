@@ -56,4 +56,4 @@ CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html
 Файлы должны называться `ФамилияИмя.ipynb`, `ФамилияИмя.html`, например: `SidnevAlexey.ipynb`.
 3. Необходимо создать Pull Request в репозиторий `https://github.com/dl-unn/dl-unn.github.io` с указанием архитектуры сети и достигнутого качества (файл [results](task2_results.md)). 
 
-Deadline: 23:59 5.11.2020
+Deadline: 23:59 7.11.2020
