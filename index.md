@@ -30,4 +30,4 @@
    
 3. [Task #2 - Multilayer neural network](practice/task2.md) and [results](practice/task2_results.md).
 4. Symbol 'H' to sequence 'HELLO' with RNN: [Download](practice/rnn_lecture.ipynb).
-
+5. [Test results](practice/test_results.md).
